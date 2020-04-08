@@ -1,3 +1,4 @@
+1024x500.png
 # Day Dee Eurodance Radio App
 Android app for Day Dee Eurodance Radio
 
