@@ -6,9 +6,11 @@ Android app for Day Dee Eurodance Radio
 
 # Download from App Stores
 
-https://
+https://appgallery.huawei.com/#/app/C103030591
 
-https://
+http://apps.samsung.com/appquery/appDetail.as?appId=codlab.daydeeeurodanceradio
+
+https://amzn.to/2RsvLTM
 
 Check Official website
 
