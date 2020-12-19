@@ -4,10 +4,12 @@
 # Day Dee Eurodance Radio App
 Android app for Day Dee Eurodance Radio
 
-# Download on Amazon App Store
+# Download from App Stores
 
-https://www.amazon.com/dp/B086V7FSVT/
+https://
+
+https://
 
 Check Official website
 
-https://www.eurodance.ga/
+https://www.daydeeeurodance.blogspot.com/
