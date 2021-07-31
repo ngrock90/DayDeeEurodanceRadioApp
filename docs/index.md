@@ -1,1 +1,2 @@
-Download .APK http://bit.ly/daydeeapp
+<a href="http://bit.ly/daydeeapp
+">Download</a> Day Dee Eurodance App
