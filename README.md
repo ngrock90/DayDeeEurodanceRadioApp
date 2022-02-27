@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/ngrock90/DayDeeEurodanceRadioApp/raw/master/1024x500.png" />
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ngrock90/DayDeeEurodanceRadioApp?include_prereleases&style=plastic) <a href="https://github.com/ngrock90/DayDeeEurodanceRadioApp/blob/master/license"><img alt="GitHub license" src="https://img.shields.io/github/license/ngrock90/Day-Dee-Eurodance-Radio-App?style=plastic"></a>
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ngrock90/DayDeeEurodanceRadioApp?include_prereleases&style=plastic) <a href="https://github.com/ngrock90/DayDeeEurodanceRadioApp/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ngrock90/Day-Dee-Eurodance-Radio-App?style=plastic"></a>
 
   
 # Day Dee Eurodance Radio
