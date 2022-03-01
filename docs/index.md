@@ -21,7 +21,7 @@ MRP.insert({
 <script type="text/javascript" src="https://api.laut.fm/js_tools/lautfm_js_tools.0.10.0.js"></script><div id="song"></div>
 
 <script type="text/html" id="song_template" charset="utf-8">
-  <%= this.title %> - <%= this.artist.name %> )
+  <%= this.artist.name %> - <%= this.title %> 
 </script>
 
 <script type="text/javascript" charset="utf-8">
