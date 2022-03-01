@@ -1,5 +1,22 @@
 <p align="center">
-<img src="https://github.com/ngrock90/DayDeeEurodanceRadioApp/raw/master/1024x500.png" />
+<img src="https://github.com/ngrock90/DayDeeEurodanceRadioApp/raw/master/1024x500.png" /><br><!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'https://daydeeeurodance.stream.laut.fm/daydeeeurodance',
+'codec':'mp3',
+'volume':100,
+'autoplay':false,
+'jsevents':true,
+'buffering':0,
+'title':'Day Dee Eurodance',
+'wmode':'transparent',
+'skin':'universelle',
+'width':155,
+'height':65
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
   
 <p align="center"> Download Day Dee Eurodance App<br>
 
