@@ -16,7 +16,9 @@ MRP.insert({
 'height':65
 });
 </script>
-<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE --><br><div id="song"></div>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE --><br>
+<br>
+<script type="text/javascript" src="https://raw.githubusercontent.com/lautde/lautfm_js_tools/master/lautfm_js_tools.js"></script><div id="song"></div>
 
 <script type="text/html" id="song_template" charset="utf-8">
   <%= this.title %> - <%= this.artist.name %> (<%= this.started_at.humanTimeLong() %> - <%= this.ends_at.humanTimeLong() %>)
