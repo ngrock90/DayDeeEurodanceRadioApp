@@ -12,7 +12,7 @@ MRP.insert({
 'title':'Day Dee Eurodance',
 'wmode':'transparent',
 'skin':'universelle',
-'width':300,
+'width':155,
 'height':65
 });
 </script>
