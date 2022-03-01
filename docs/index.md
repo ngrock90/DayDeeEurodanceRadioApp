@@ -16,7 +16,15 @@ MRP.insert({
 'height':65
 });
 </script>
-<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE --><br>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE --><br><div id="song"></div>
+
+<script type="text/html" id="song_template" charset="utf-8">
+  <%= this.title %> - <%= this.artist.name %> (<%= this.started_at.humanTimeLong() %> - <%= this.ends_at.humanTimeLong() %>)
+</script>
+
+<script type="text/javascript" charset="utf-8">
+  laut.fm.station('daydeeeurodance').current_song({container:'song', template:'song_template'}, true);
+</script><br>
   
 <p align="center"> Download Day Dee Eurodance App<br>
 
