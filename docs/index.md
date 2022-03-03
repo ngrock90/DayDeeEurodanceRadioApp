@@ -20,11 +20,11 @@ MRP.insert({
 <br>
 <script type="text/javascript" src="https://api.laut.fm/js_tools/lautfm_js_tools.0.10.0.js"></script><div id="song"></div>
 
-<script type="text/html" id="song_template" charset="utf-8">
+Now playing: <script type="text/html" id="song_template" charset="utf-8">
  <b> <%= this.artist.name %> </b>- <%= this.title %> 
 </script>
 
-Now Playing: <script type="text/javascript" charset="utf-8">
+ <script type="text/javascript" charset="utf-8">
   laut.fm.station('daydeeeurodance').current_song({container:'song', template:'song_template'}, true);
 </script><br>
   
