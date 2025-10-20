@@ -6,7 +6,7 @@
   
 # Day Dee Eurodance Radio
 Android app for Day Dee Eurodance Radio
-Latest release v11.2 2023
+Latest release v11.3 2025
 
 Check official download sites and stores
 
